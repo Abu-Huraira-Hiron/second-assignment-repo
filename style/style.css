@@ -1,0 +1,31 @@
+.nav-container{
+    border: 2px;
+    border-color: blue;
+    min-height: 60px;
+    background-color: white;
+
+}
+
+.logo-contaoner{
+    align-items: center;
+
+}
+
+.nav-logo{
+    display: flex;
+
+}
+
+.nav-items{
+
+}
+
+.G{
+    color: orangered;
+
+}
+
+.imag{
+    width: 40px;
+    height: 20px;
+}
