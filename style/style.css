@@ -181,4 +181,27 @@ padding-top: 80px;
                                        /* finish */
 
 
-                                       
+.second-twofhoto-parent{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+   .second-t{
+    padding-left: 50px;
+    width: 300px;
+   }
+   
+   
+.second-two-content{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.play-colorss{
+    color: brown;
+}
+
+.online{
+    color: cadetblue;
+}
