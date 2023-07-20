@@ -153,3 +153,32 @@
 .funy{
     color: darkolivegreen;
 }
+
+
+/* finish */
+
+
+.two-fhoto-parent{
+
+padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rectangle55{
+    width: 300px;
+}
+
+.two-play{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.twofhoto-content{
+    padding-top: 100px;
+}
+
+                                       /* finish */
+
+
+                                       
