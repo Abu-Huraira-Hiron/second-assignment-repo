@@ -64,7 +64,7 @@
                        /* nav container finish */
                 
  .introduction-parent{
-    padding-top: 5px;
+    padding-top: 10px;
     background-color: hotpink;
     display: flex;
     justify-content: space-around;
@@ -75,9 +75,81 @@
  }
 
  .in-content{
+    padding-top: 120px;
 
  }
 
  .play{
-    
+    font-size: 25px;
  }
+
+ .goat{
+    padding-left: 30px;
+    color: cornflowerblue;
+ }
+
+ .item{
+    list-style: none;
+ }
+
+/* done */
+
+.we-are-parent{
+    display: flex;
+    justify-content: space-around;
+    background-color: floralwhite;
+}
+
+.pngw4{
+    width: 700px;
+}
+
+.we-are-content{
+    padding-top: 120px;
+    
+}
+
+.wer-color{
+    color: darkviolet;
+    font-size: 30px;
+}
+.dkno-btn{
+    padding-left: 75px;
+    
+}
+.kno-btn{
+
+
+    color: plum;
+}
+
+.purpos{
+    
+}
+
+/* finish */
+
+.online-games-parent{
+    padding-top: 19px;
+    background-color: ;
+}
+
+.images{
+    padding-left: 190px;
+    display: flex;
+    gap: 10px;
+    
+}
+
+.pic-size{
+    width: 200px;
+}
+
+.online{
+    padding-left: 480px;
+    padding-bottom: 20px;
+}
+
+.funy{
+    color: darkolivegreen;
+}
