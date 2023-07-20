@@ -1,4 +1,26 @@
-@media screen  {
+@media screen and (max-width:515px) {
+    header{
+        padding: 20px;
+    }
+
+    .nav-container{
+        width: 400px;
+        flex-direction: column;
+    }
+    .nav-items{
+        flex-direction: column;
+
+    }
+
+    .introduction-parent{
+        flex-direction: column;
+    }
+    .nav-items{
+        flex-direction: column;
+    }
+
+    .introduction-parent{
+        flex-direction: column;
+    }
     
 }
-

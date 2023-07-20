@@ -4,6 +4,7 @@
     
 }
 .nav-container{
+    width: 100%;
     border: 2px solid;
     border-color:whitesmoke;
     min-height: 60px;
@@ -34,9 +35,7 @@
 
 }
 
-.nav-items{
 
-}
 
 .G{
     color: orangered;
