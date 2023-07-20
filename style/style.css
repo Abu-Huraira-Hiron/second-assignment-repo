@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    max-width: 1400px;
+    
 }
 .nav-container{
     border: 2px solid;
@@ -10,7 +10,7 @@
     background-color: white;
     display: flex;
     justify-content: space-around;
-    max-width: 1400px;
+    
 
 }
 
