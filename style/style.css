@@ -226,8 +226,11 @@ padding-top: 80px;
 }
 
                              /* finish */
-
+.down{
+    padding-top: 35px;
+}
 .foter-container-parent{
+    padding-top: 40px;
     width: 1255px;
     height: 400px;
     background-color: black;
@@ -266,6 +269,11 @@ padding-top: 80px;
 .kaka{
     width: 30px;
 }
-    
+  .last{
+    padding-top: 5px;
+    padding-left: 440px;
+    color: aliceblue;
+    font-size:10px ;
+  }  
 
 
